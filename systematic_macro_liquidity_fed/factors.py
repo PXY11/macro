@@ -147,8 +147,6 @@ def build_deleveraging(df: pd.DataFrame, window: int = 26) -> pd.DataFrame:
     out["DELEV_stress"] = np.tanh(combo)
     return out
 
-sadasdasdasdaasdas
-asdsadasdasdasd
 
 
 def combine_net_liquidity(
