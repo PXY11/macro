@@ -10,5 +10,4 @@ git add .
 git commit -m "你的提交说明"
 
 推送到远程 origin 的主分支（根据实际分支调整）
-git push origin main
-如果用的是 master 分支，则改为 git push origin master。
+git push origin master
